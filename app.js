@@ -19,7 +19,6 @@ app.use(session({
   secret: "Little secrete",
   resave: false,
   saveUninitialized: false,
-  // cookie: { secure: true }
 }));
 
 app.use(passport.initialize());
