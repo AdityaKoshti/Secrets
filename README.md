@@ -9,13 +9,13 @@
 
 ### Some Glimpse of Web Application
 #### Login/Register Interface:
-![Starting Page](https://drive.google.com/file/d/1rZrnodwKfzUEf8K0cIuy9av3630Q0R4S/view?usp=sharing)
+![Starting Page](https://drive.google.com/uc?export=view&id=1rZrnodwKfzUEf8K0cIuy9av3630Q0R4S)
 
 #### Login Page:
-![Login Page](https://drive.google.com/file/d/1OcUf5AR8jWnfZuwIB0z0IMGR7IEUKhcp/view?usp=sharing)
+![Login Page](https://drive.google.com/uc?export=view&id=1OcUf5AR8jWnfZuwIB0z0IMGR7IEUKhcp)
 
 #### Secret Page:
-![Secrets Page](https://drive.google.com/file/d/1TTzTC2rIWUDTD0S4JwXBbaPcc8xmiX9M/view?usp=sharing)
+![Secrets Page](https://drive.google.com/uc?export=view&id=1TTzTC2rIWUDTD0S4JwXBbaPcc8xmiX9M)
 
 
 
