@@ -26,7 +26,7 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 
-mongoose.connect("mongodb+srv://admin-aditya:admin123@cluster0.wetmb.mongodb.net/userDB", {useNewUrlParser: true});
+mongoose.connect("", {useNewUrlParser: true});
 
 const userSchema = new mongoose.Schema({
   email : String,
@@ -53,8 +53,8 @@ passport.deserializeUser(function(id, done) {
 });
 
 passport.use(new GoogleStrategy({
-  clientID: "597874053166-2q8rb3dl5a2dq831gdp5a926v728ncqd.apps.googleusercontent.com",
-  clientSecret: "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",
+  clientID: process.env.CLIENT_ID,
+  clientSecret: process.env.CLIENT_SECRET,
   callbackURL: "http://localhost:3000/auth/google/secrets",
   userProfileURL:"https://www.googleapis.com/oauth2/v3/userinfo"
   },
