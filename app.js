@@ -167,11 +167,5 @@ app.post("/login", function(req, res){
 });
 
 
-app.listen(3000, function(err){
-  if(err){
-    console.log(err);
-  }
-  console.log("The server is running on port 3000");
-});
-
+module.exports = app;
 
