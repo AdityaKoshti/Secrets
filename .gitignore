@@ -1,5 +1,7 @@
 .env
 Procfile
+env
+.history
 # Logs
 logs
 *.log
