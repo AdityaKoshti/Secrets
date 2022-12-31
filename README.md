@@ -3,9 +3,9 @@
 # Live Demo
 It's an Amazing Video Conferencing Web Application build over WebRTC and Socket.io<br>
 Try Live Demo on below URL.<br>
-https://hudson-backbacon-58675.herokuapp.com/
+https://secrets-zvij.onrender.com
 ```
-https://hudson-backbacon-58675.herokuapp.com/
+https://secrets-zvij.onrender.com
 ```
 
 ## Table of content
