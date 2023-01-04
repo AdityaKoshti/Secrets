@@ -1,7 +1,7 @@
 # Secrets
 
 # Live Demo
-It's an Amazing Video Conferencing Web Application build over WebRTC and Socket.io<br>
+This is an Authentication site which is build over Google OAuth2.0 and database encryption using PassportJS<br>
 Try Live Demo on below URL.<br>
 https://secrets-zvij.onrender.com
 ```
